@@ -25,6 +25,4 @@ android:
 before_script:
  - cd android
 script:
-  - cd android
-  - gradlew
-  
+  - ./gradlew
